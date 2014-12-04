@@ -1,3 +1,7 @@
+;
+; Author: Madeline Fox
+; Version: 1
+
 ; === STACK SEGMENT ===
 MyStack segment stack
   DB 64 dup('12345678')
