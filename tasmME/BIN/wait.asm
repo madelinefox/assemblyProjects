@@ -1,6 +1,6 @@
 ;
-; ASM -- National Computer Camps
-;
+; Author: Madeline Fox
+; Version: 1
 
 ; === STACK SEGMENT===
 MyStack segment stack
